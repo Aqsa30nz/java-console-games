@@ -24,8 +24,8 @@ This repository contains a collection of beginner-friendly Java console-based ga
 ## ▶️ How to Run 
 
 1. Navigate to the game folder 
-2. Compile: javac Guess.java 
-3. Run: java Guess 
+2. Compile: `javac FileName.java` 
+3. Run: `java ClassName`
 
 --- 
 
