@@ -19,7 +19,7 @@ This game is perfect for practicing **basic Java programming concepts** like inp
 
 1. Make sure **Java is installed** on your machine.  
 2. Open a terminal in the folder containing `GuessingGame.java`.  
-3. Compile the game:
+3. Compile and run the game:
 ```console
 javac GuessingGame.java
 java GuessingGame
