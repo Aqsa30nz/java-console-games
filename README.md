@@ -32,9 +32,9 @@ This repository contains a collection of beginner-friendly Java console-based ga
 
 1. Navigate to the desired game folder
 2. Compile:
-  - `javac *.java`
+  - `javac FileName.java`
 3. Run:
-  - `java Main`
+  - `java FileName`
 
 --- 
 
