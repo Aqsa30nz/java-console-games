@@ -35,8 +35,8 @@ Instead of row/column input, players select positions from 1 to 9:
 ## 📁 Project Structure
 
 ### Procedural Version
-   - Single-file implementation using static methods
-   - Focuses on core logic, control flow, and basic problem-solving
+   - Single-file implementation using static methods.
+   - Focuses on core logic, control flow, and basic problem-solving.
 - 📂 Location: `/procedural/TicTacToe.java`
 
 ### OOP Version (Recommended)
@@ -103,21 +103,21 @@ Player X, enter position (1-9) : 5
 ## 📚 Learning Outcomes
 By building this project, you will understand:
 
-- Mapping user input (1D) to a 2D grid
-- Designing game loops and control flow
-- Implementing input validation and error handling
-- Writing efficient win-condition logic
-- Refactoring procedural code into object-oriented design
-- Applying encapsulation and separation of concerns
+- Mapping user input (1D) to a 2D grid.
+- Designing game loops and control flow.
+- Implementing input validation and error handling.
+- Writing efficient win-condition logic.
+- Refactoring procedural code into object-oriented design.
+- Applying encapsulation and separation of concerns.
 
 ---
 
 ## 🚀 Future Improvements
 
-- Single-player mode with AI (Minimax algorithm)
-- Score tracking across multiple rounds
-- Variable board size (NxN)
-- Graphical User Interface (Java Swing / JavaFX)
+- Single-player mode with AI (Minimax algorithm).
+- Score tracking across multiple rounds.
+- Variable board size (NxN).
+- Graphical User Interface (Java Swing / JavaFX).
 
 ---
 
